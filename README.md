@@ -962,6 +962,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ReMCP](https://remcp.site) `https://remcp.site/mcp`
   [![ReMCP MCP connector](https://glama.ai/mcp/connectors/site.remcp/re-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/site.remcp/re-mcp)
   🔐 - Remote access to paired computers: files, terminals, screenshots, search, and processes.
+- [RepoAlerts](https://repoalerts.com/mcp) `https://repoalerts.com/mcp`
+  [![RepoAlerts MCP connector](https://glama.ai/mcp/connectors/com.repoalerts/repo-alerts/badges/score.svg)](https://glama.ai/mcp/connectors/com.repoalerts/repo-alerts)
+  🔓 - Rising GitHub repos with fake stars filtered out: search, trending, repo pages and alternatives.
 - [Review Times](https://reviewtimes.fyi) `https://reviewtimes.fyi/mcp`
   [![Review Times MCP connector](https://glama.ai/mcp/connectors/fyi.reviewtimes/review-times/badges/score.svg)](https://glama.ai/mcp/connectors/fyi.reviewtimes/review-times)
   🔓 - Live review times for AI app, connector and plugin stores: ChatGPT, Claude, Muse, Grok, Cursor and more.
